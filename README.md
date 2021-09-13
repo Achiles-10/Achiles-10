@@ -7,6 +7,6 @@ challenges and ready to face changes.
 
 #### "If you love life, do not waste time, for time is what life is made up of".🕖
 
-- 🚧 From Brazil living in Timóteo
-- 💻 Front-end, Back-end
+- 🚧 From Brazil living in Timóteo.
+- 💻 Front-end, Back-end.
 - 🧙 Programming wizard, spreading positivity and motivation.
